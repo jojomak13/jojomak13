@@ -1,4 +1,4 @@
-<h1 align="center">🤓 Joseph Makram 🤓</h1>
+<h1 align="center">Hi 👋, I'am Joseph Makram</h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
 <p align="center"> 
