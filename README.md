@@ -13,7 +13,7 @@
 
 <a href="https://stackoverflow.com/users/11960598/joseph"><img src="https://stackoverflow.com/users/flair/11960598.png?theme=dark" width="208" height="58" alt="profile for Joseph at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joseph at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jojomak13&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jojomak13&show_icons=true&hide=stars&include_all_commits=true&count_private=true&theme=material-palenight&line_height=40" />
  
 </div>
 
