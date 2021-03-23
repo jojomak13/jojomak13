@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-</div>
-
 <h1 align="center">Hi 👋, I'am Joseph Makram</h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
